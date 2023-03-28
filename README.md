@@ -1,6 +1,6 @@
 # Battleship
 
-I recreated the classic 2-player game of Battleship, employing knowledge of C++ data structures, inheritance, pointer and destructors, and algorithm-based thinking. 
+I recreated the classic 2-player game of Battleship, employing knowledge of C++ data structures, Object-Oriented programming, pointer and destructors, and algorithm-based thinking. 
 
 <h2>Gameplay</h2>
 <b>Objective:</b> try to sink all enemy ships in a vast ocean (10x10 board) through strategic prediction before your ships are sunk.
